@@ -9,6 +9,7 @@ import org.springframework.security.config.annotation.web.configuration.WebSecur
  * Configuration class for user's authentication, authorization and role.
  * 
  * @author akshay.ghaisas
+ * Updated the version
  *
  */
 public class SecurityConfig extends WebSecurityConfigurerAdapter {
